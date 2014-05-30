@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/arobles/AndroidStudioProjects/Newproyectfacebook/Bolts/res" />
+        <source path="/home/arobles/AndroidStudioProjects/Newproyectfacebook/Bolts/build/res/rs/debug" />
+        <source path="/home/arobles/AndroidStudioProjects/Newproyectfacebook/Bolts/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/arobles/AndroidStudioProjects/Newproyectfacebook/Bolts/src/debug/res" />
+    </dataSet>
+
+</merger>
